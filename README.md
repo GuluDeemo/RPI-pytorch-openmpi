@@ -18,6 +18,8 @@ cd ~
 
 # install packages
 
-python3 -m pip install Pillow==6.1, torchvision, graphviz
+python3 -m pip install Pillow==6.1
+python3 -m pip install torchvision
+python3 -m pip install graphviz
 
 ```
